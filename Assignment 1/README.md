@@ -50,8 +50,22 @@ Data-Analysis-3/
 │ │ │── 01_airbnb_exploration.ipynb
 │── README.md
 
+
 ## Reproducibility
-All results can be reproduced by running the notebook from top to bottom.
+
+To reproduce the results:
+
+1. Clone the repository:
+git clone https://github.com/<your-username>/Data-Analysis-3.git
+
+
+2. Navigate to the Assignment 1 folder and open the notebook:
+Assignment 1/01_airbnb_exploration.ipynb
+
+
+3. Run all cells in the notebook from top to bottom.
+
+All required datasets are included in the repository under `data/raw/`.
 Random seeds are fixed where applicable.
 
 ## Author
